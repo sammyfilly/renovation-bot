@@ -189,8 +189,8 @@ importers:
         specifier: 3.3.0
         version: 3.3.0
       handlebars:
-        specifier: 4.7.7
-        version: 4.7.7
+        specifier: 4.7.8
+        version: 4.7.8
       hasha:
         specifier: 5.2.2
         version: 5.2.2
@@ -243,8 +243,8 @@ importers:
         specifier: 6.1.5
         version: 6.1.5
       openpgp:
-        specifier: 5.9.0
-        version: 5.9.0
+        specifier: 5.10.1
+        version: 5.10.1
       p-all:
         specifier: 3.0.0
         version: 3.0.0
@@ -5110,7 +5110,7 @@ packages:
     dependencies:
       conventional-commits-filter: 3.0.0
       dateformat: 3.0.3
-      handlebars: 4.7.7
+      handlebars: 4.7.8
       json-stringify-safe: 5.0.1
       meow: 8.1.2
       semver: 7.5.4
@@ -6547,8 +6547,8 @@ packages:
     engines: {node: ^12.22.0 || ^14.16.0 || ^16.0.0 || >=17.0.0}
     dev: true
 
-  /handlebars@4.7.7:
-    resolution: {integrity: sha512-aAcXm5OAfE/8IXkcZvCepKU3VzW1/39Fb5ZuqMtgI/hT8X2YgoMvBY5dLhq/cpOvw7Lk1nK/UF71aLG/ZnVYRA==}
+  /handlebars@4.7.8:
+    resolution: {integrity: sha512-vafaFqs8MZkRrSX7sFVUdo3ap/eNiLnb4IakshzvP56X5Nr1iGKAIqdX6tMlm6HcNRIkr6AxO5jFEoJzzpT8aQ==}
     engines: {node: '>=0.4.7'}
     hasBin: true
     dependencies:
@@ -8811,8 +8811,8 @@ packages:
       is-wsl: 2.2.0
     dev: true
 
-  /openpgp@5.9.0:
-    resolution: {integrity: sha512-wEI6TAinCAq8ZLZA4oZ3ZtJ2BhhHj+CiPCd8TzE7zCicr0V8tvG5UF76OtddLLOJcK63w3Aj3KiRd+VLMScirQ==}
+  /openpgp@5.10.1:
+    resolution: {integrity: sha512-SR5Ft+ej51d0+p53ld5Ney0Yiz0y8Mh1YYLJrvpRMbTaNhvS1QcDX0Oq1rW9sjBnQXtgrpWw2Zve3rm7K5C/pw==}
     engines: {node: '>= 8.0.0'}
     dependencies:
       asn1.js: 5.4.1
